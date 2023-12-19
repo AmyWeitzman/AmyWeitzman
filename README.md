@@ -21,3 +21,5 @@ I am passionate about using my technical skills to build creative solutions that
 
 :globe_with_meridians: Learn more about me on my [Personal Website](https://amyweitzman.github.io/me/)
 
+:bulb: Freelance Comp Sci Services: Contact me about developing innovative software engineering and data science solutions!
+
